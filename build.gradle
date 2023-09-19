@@ -22,12 +22,6 @@ dependencies {
 	// end::tests[]
 }
 
-plugins {
-    id 'war'
-    // Other plugins you might have...
-}
-
-// Other Gradle configurations...
 
 
 test {
