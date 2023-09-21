@@ -22,6 +22,8 @@ dependencies {
 	// end::tests[]
 }
 
+
+
 test {
 	useJUnitPlatform()
 }
