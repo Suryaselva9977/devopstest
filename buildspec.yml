@@ -1,0 +1,5 @@
+version: 0.2
+
+build:
+  command:
+    echo 'this codebuild is successful'
