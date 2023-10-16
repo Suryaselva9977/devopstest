@@ -4,3 +4,4 @@ phases:
   build:
     commands:
        - echo 'this build is working'
+       - echo Commit Id = ${CODEBUILD_RESOLVED_SOURCE_VERSION}
